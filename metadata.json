@@ -1,0 +1,5 @@
+{
+  "name": "NovaCalc: Quantum Scientific Suite",
+  "description": "A futuristic scientific calculator powered by Gemini 3.0 Pro, featuring real-time graphing, AI formula analysis, and step-by-step problem solving with a stunning glassmorphic UI.",
+  "requestFramePermissions": []
+}
